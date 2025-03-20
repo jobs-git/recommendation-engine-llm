@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/889985404091409731/73f09d9d89274e0b96a0d4baa55f524c/artifacts
+end_time: 1741296760910
+entry_point_name: ''
+experiment_id: '889985404091409731'
+lifecycle_stage: active
+run_id: 73f09d9d89274e0b96a0d4baa55f524c
+run_name: funny-fowl-935
+run_uuid: 73f09d9d89274e0b96a0d4baa55f524c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741296357236
+status: 3
+tags: []
+user_id: root
